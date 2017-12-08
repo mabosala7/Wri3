@@ -1,2 +1,2 @@
 # Install app
-* do as this 
+* do as this steps
